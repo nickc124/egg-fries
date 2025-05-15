@@ -11,17 +11,17 @@ are we cook or cooked.
    coding projects help me understand the material better that any other method
 
 ## the apcsa exam
-1.  reading test
-    to much reading and understanding hte task at hand
-    learn to chunk test into code chunks
-2. classes
+1.  reading test:
+    ,to much reading and understanding hte task at hand
+    ,learn to chunk test into code chunks
+2. classes:
    make class
-   make methods
-   make vars
-   normal classes
-3. ArrayList
-   include 'new ArrayList<obj>();
-   use JQR
-4. 2D Array
+   ,make methods
+   ,make vars
+   ,normal classes
+3. ArrayList:
+   include 'new ArrayList<obj>();'
+   ,use JQR
+4. 2D Array:
    int[rows][cols]
-   know how to cycle through
+   ,know how to cycle through
