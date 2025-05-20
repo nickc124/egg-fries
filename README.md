@@ -12,16 +12,16 @@ are we cook or cooked.
 
 ## the apcsa exam
 1.  reading test:
-    ,to much reading and understanding hte task at hand
-    ,learn to chunk test into code chunks
+    ,to much reading and understanding the task given
+    ,learn to chunk test prompts into code chunks
 2. classes:
    make class
    ,make methods
-   ,make vars
-   ,normal classes
+   ,make private vars
+   ,normal class creation
 3. ArrayList:
    include 'new ArrayList<obj>();'
-   ,use JQR
+   ,use JQR for ArrayList methods
 4. 2D Array:
    int[rows][cols]
-   ,know how to cycle through
+   ,know how to cycle through each row and col
