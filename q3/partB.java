@@ -6,7 +6,7 @@ public ArrayList<Match> buildMatches(){
     num=1;
   }
   for(int i =0; (i<size) && ((i+num)<(size-i);i++){
-   result.add( competitorList.get(i+num),competitorList.get(size-1));
+   result.add(new Match (competitorList.get(i+num),competitorList.get(size-1)));
   }
   return result;
 }
