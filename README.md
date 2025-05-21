@@ -1,27 +1,28 @@
-# egg-fries
-are we cook or cooked.
-## prep
-1. The book
-   useless piece to learn the material
-   practice test were ok
-2. apclassroom
-   good for practice mcq questions
-   helps learn or deal with edge cases
-3. pickcode
-   coding projects help me understand the material better that any other method
+# AP-FRQs-2025
 
-## the apcsa exam
-1.  reading test:
-    ,to much reading and understanding the task given
-    ,learn to chunk test prompts into code chunks
-2. classes:
-   make class
-   ,make methods
-   ,make private vars
-   ,normal class creation
-3. ArrayList:
-   include 'new ArrayList<obj>();'
-   ,use JQR for ArrayList methods
-4. 2D Array:
-   int[rows][cols]
-   ,know how to cycle through each row and col
+*Solutions written by Nick Chong*
+
+## Introduction
+This repository contains my solutions and reflections for the AP Computer Science exam taken on 5/7/25. 
+
+## Exam Experience
+In this section, I reflect on my overall experience taking the AP Computer Science exam:
+
+- to prep i used the Apclassroom Mcq
+- code in java in my free time
+- study the tipocs and explore all the edge cases that will show up
+
+## Growth Opportunities
+Through this review process, I've identified these areas for continued learning:
+
+- Topic/Concept 1: classes and objects
+- Programming practice: coding project using objects to improve coding skills
+
+## Resources
+
+- p5.js (builds skills in a fun and creative way)
+
+## Future Goals
+Moving forward, I plan to:
+- code more in java and develop logic an coding skills
+- build a model based off of puzzle (FRQ Q4)
